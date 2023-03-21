@@ -1,0 +1,5 @@
+public NewClass2 {
+
+    System.out.println("out");
+
+}
